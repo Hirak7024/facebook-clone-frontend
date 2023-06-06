@@ -1,0 +1,9 @@
+.homeContainer{
+    display: flex;
+    width: 100%;
+}
+.homeMainConatiner{
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+}
